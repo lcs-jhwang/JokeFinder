@@ -12,6 +12,7 @@
 		312EE25E2D77798800C287F8 /* JokeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312EE2592D77798800C287F8 /* JokeView.swift */; };
 		312EE25F2D77798800C287F8 /* JokeFinderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312EE25A2D77798800C287F8 /* JokeFinderApp.swift */; };
 		312EE2642D777F0300C287F8 /* Joke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312EE2632D777EFA00C287F8 /* Joke.swift */; };
+		312EE2672D777F4800C287F8 /* JokeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312EE2662D777F4300C287F8 /* JokeViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		312EE2592D77798800C287F8 /* JokeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeView.swift; sourceTree = "<group>"; };
 		312EE25A2D77798800C287F8 /* JokeFinderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeFinderApp.swift; sourceTree = "<group>"; };
 		312EE2632D777EFA00C287F8 /* Joke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Joke.swift; sourceTree = "<group>"; };
+		312EE2662D777F4300C287F8 /* JokeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		312EE2612D7779AA00C287F8 /* ModelView */ = {
 			isa = PBXGroup;
 			children = (
+				312EE2662D777F4300C287F8 /* JokeViewModel.swift */,
 			);
 			path = ModelView;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 				312EE25E2D77798800C287F8 /* JokeView.swift in Sources */,
 				312EE25F2D77798800C287F8 /* JokeFinderApp.swift in Sources */,
 				312EE2642D777F0300C287F8 /* Joke.swift in Sources */,
+				312EE2672D777F4800C287F8 /* JokeViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
