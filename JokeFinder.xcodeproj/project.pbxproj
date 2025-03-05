@@ -63,12 +63,11 @@
 		312EE25B2D77798800C287F8 /* JokeFinder */ = {
 			isa = PBXGroup;
 			children = (
+				312EE2602D7779A500C287F8 /* Model */,
 				312EE2612D7779AA00C287F8 /* ModelView */,
 				312EE2622D7779B100C287F8 /* View */,
 				312EE2572D77798800C287F8 /* Preview Content */,
 				312EE2582D77798800C287F8 /* Assets.xcassets */,
-				312EE2592D77798800C287F8 /* JokeView.swift */,
-				312EE2602D7779A500C287F8 /* Model */,
 				312EE25A2D77798800C287F8 /* JokeFinderApp.swift */,
 			);
 			path = JokeFinder;
@@ -93,6 +92,7 @@
 		312EE2622D7779B100C287F8 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				312EE2592D77798800C287F8 /* JokeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
